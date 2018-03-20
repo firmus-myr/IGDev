@@ -1,0 +1,6 @@
+Parts arround theship that break ad need repair
+	enigneers can fix
+	Says on bridge
+	has to weld to fix
+	do basic maths
+	
